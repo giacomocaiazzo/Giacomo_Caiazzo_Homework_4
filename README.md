@@ -9,8 +9,8 @@ This is a report of the Homework 4 of Robotics Lab course using Docker and ROS2 
 
 Open the terminal, open the container and enter into the directory where you want to download the folder, then download it with:
 
-	git clone https://github.com/Marcotocci/https://github.com/TeoDeSimone/MatteoDeSimone_hmw4.git
-
+	https://github.com/giacomocaiazzo/Giacomo_Caiazzo_Homework_4
+ 
 To build the packages, enter into the ROS2 workspace and build them with:
 
 	colcon build
